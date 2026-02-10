@@ -19,4 +19,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: 'c4rl0s04'
           output-path: 'game.gif'
-          strategy: 'random'
+          strategy: 'column'   # <--- CRITICAL: Keeps blocks together in a "wall"
+          fps: 80              # <--- FAST: Zooms through the empty months (Mar-Dec)
