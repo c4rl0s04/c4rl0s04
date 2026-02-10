@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows you to click a button to run it manually
+    - cron: '0 0 * * *' # Updates every day at midnight
+  workflow_dispatch: # Allows manual click
 
 permissions:
   contents: write
@@ -17,5 +17,6 @@ jobs:
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: 'c4rl0s04'
           output-path: 'game.gif'
           strategy: 'random'
