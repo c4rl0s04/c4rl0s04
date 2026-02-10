@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Software Developer | Data & Systems Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39c5bb&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Carlos+Andr%C3%A9s+Huete;Software+Developer;Data+%26+Systems+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c4rl0s04&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+</div>
 
 <div align="center">
   <br>
-  <img src="https://github.com/c4rl0s04/c4rl0s04/blob/main/game.gif?raw=true&timestamp=12345"" alt="Carlos's Space Shooter Game" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://github.com/c4rl0s04/c4rl0s04/blob/main/game.gif?raw=true&timestamp=12345" alt="Carlos's Space Shooter Game" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
   <br>
   <sub><i>(Yes, that spaceship is destroying my actual contribution graph!)</i></sub>
   <br><br>
@@ -39,7 +44,15 @@
 <br>
 
 <div align="center">
+  <img src="https://github.com/c4rl0s04/c4rl0s04/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c4rl0s04&show_icons=true&theme=tokyonight&hide_border=true" alt="Carlos's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c4rl0s04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rl0s04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
