@@ -31,3 +31,8 @@
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-000000?style=flat&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" />
 
 ---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/c4rl0s04/c4rl0s04/blob/output/github-contribution-grid-snake.svg)
+
+---
