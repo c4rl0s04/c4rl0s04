@@ -8,22 +8,14 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/c4rl0s04/c4rl0s04/blob/main/game.gif?raw=true&timestamp=12345" alt="Carlos's Space Shooter Game" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
-  <br>
-  <sub><i>(Yes, that spaceship is destroying my actual contribution graph!)</i></sub>
-  <br><br>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/carlos-andrés-huete/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br><br>
 </div>
-
-<br>
 
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
@@ -44,7 +36,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/c4rl0s04/c4rl0s04/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/c4rl0s04/c4rl0s04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <br>
