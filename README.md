@@ -3,7 +3,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/c4rl0s04/c4rl0s04/blob/main/game.gif?raw=true" alt="Carlos's Space Shooter Game" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://github.com/c4rl0s04/c4rl0s04/blob/main/game.gif?raw=true&timestamp=12345"" alt="Carlos's Space Shooter Game" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
   <br>
   <sub><i>(Yes, that spaceship is destroying my actual contribution graph!)</i></sub>
   <br><br>
