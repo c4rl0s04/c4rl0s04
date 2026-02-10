@@ -16,21 +16,14 @@
 ---
 
 ## 🏆 Certifications
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td valign="middle" style="border: none;">
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=742BD48671235356175C0E6DBE934D2368D25C0853BED7239CE57B9922B3E39F" target="_blank">
-        <img src="https://brm-workforce.oracle.com/pdf/certview/images/DB23AISQLOCA.png" height="175" alt="Oracle Database 23ai SQL Associate" />
-      </a>
-    </td>
-    <td width="20" style="border: none;"></td>
-    <td valign="middle" style="border: none;">
-      <a href="https://www.credly.com/badges/8379acb9-1f63-4041-8d49-7b4e8f3c67fa/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" height="150" alt="PCEP Certified" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=742BD48671235356175C0E6DBE934D2368D25C0853BED7239CE57B9922B3E39F" target="_blank">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/DB23AISQLOCA.png" height="165" align="center" alt="Oracle Database 23ai SQL Associate" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/8379acb9-1f63-4041-8d49-7b4e8f3c67fa/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" height="150" align="center" alt="PCEP Certified" />
+</a>
 
 ---
 
