@@ -32,8 +32,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 ![snake gif](https://raw.githubusercontent.com/c4rl0s04/c4rl0s04/output/github-contribution-grid-snake.svg)
 
 ---
