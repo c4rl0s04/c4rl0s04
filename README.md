@@ -17,13 +17,8 @@
 
 ## 🏆 Certifications
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=742BD48671235356175C0E6DBE934D2368D25C0853BED7239CE57B9922B3E39F" target="_blank">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/DB23AISQLOCA.png" height="165" align="center" alt="Oracle Database 23ai SQL Associate" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/8379acb9-1f63-4041-8d49-7b4e8f3c67fa/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" height="150" align="center" alt="PCEP Certified" />
-</a>
+* **[Oracle Database 23ai SQL Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=742BD48671235356175C0E6DBE934D2368D25C0853BED7239CE57B9922B3E39F)**
+* **[PCEP – Certified Entry-Level Python Programmer](https://www.credly.com/badges/8379acb9-1f63-4041-8d49-7b4e8f3c67fa/public_url)**
 
 ---
 
@@ -35,5 +30,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/c4rl0s04/c4rl0s04/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
----
