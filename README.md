@@ -1,13 +1,6 @@
 # Carlos Andrés Huete
 ### Computer Science Student | Software Developer
 
-<a href="https://www.linkedin.com/in/carlos-andrés-huete/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-</a>
-<a href="mailto:carlosandreshuete@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-</a>
-
 ---
 
 ## 💻 Tech Stack
