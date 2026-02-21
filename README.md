@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Currently Exploring
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-000000?style=flat&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-000000?style=flat&logoColor=white" />
 
 ---
 
