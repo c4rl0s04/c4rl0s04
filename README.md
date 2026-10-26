@@ -69,9 +69,9 @@ Also building **[Spotify Organizer](https://github.com/c4rl0s04/spotify-organize
 A year of GitHub activity, rendered as a 3D landscape.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-  <img src="./profile-3d-contrib/profile-green.svg" alt="My GitHub contribution calendar as a green 3D landscape, with language and activity breakdowns" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg?v=2">
+  <img src="./profile-3d-contrib/profile-green.svg?v=2" alt="My GitHub contribution calendar as a green 3D landscape, with language and activity breakdowns" width="100%">
 </picture>
 
 <sub>Generated daily from GitHub activity. <a href="https://github.com/yoshi389111/github-profile-3d-contrib">Visualization credits</a>.</sub>
