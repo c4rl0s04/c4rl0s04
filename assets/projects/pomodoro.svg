@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+<title id="title">Pomodoro CLI</title>
+<desc id="desc">Focus in the terminal</desc>
+<rect width="720" height="180" rx="12" fill="#362549"/>
+<text x="30" y="79" fill="#d8b5ff" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700">Pomodoro CLI</text>
+<text x="30" y="119" fill="#d8b5ff" font-family="Arial,Helvetica,sans-serif" font-size="21">Focus in the terminal</text>
+<g transform="translate(590 46)" fill="none" stroke="#d8b5ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="48" cy="46" r="32"/><path d="M48 14V4M38 4h20M73 20l8-8M48 27v21l13 8"/></g>
+</svg>

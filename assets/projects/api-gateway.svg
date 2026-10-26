@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+<title id="title">API Gateway Platform</title>
+<desc id="desc">API infrastructure</desc>
+<rect width="720" height="180" rx="12" fill="#102c4a"/>
+<text x="30" y="79" fill="#79caff" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700">API Gateway Platform</text>
+<text x="30" y="119" fill="#79caff" font-family="Arial,Helvetica,sans-serif" font-size="21">API infrastructure</text>
+<g transform="translate(590 46)" fill="none" stroke="#79caff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="29" width="25" height="25" rx="5"/><rect x="65" y="4" width="25" height="25" rx="5"/><rect x="65" y="54" width="25" height="25" rx="5"/><path d="M30 41h18V17h17M48 41v25h17"/></g>
+</svg>

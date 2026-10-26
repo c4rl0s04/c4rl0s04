@@ -25,25 +25,25 @@ I build API platforms, web applications, and tools for the terminal.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/c4rl0s04/api-gateway-platform">API Gateway Platform</a></h3>
+      <p><a href="https://github.com/c4rl0s04/api-gateway-platform"><img src="./assets/projects/api-gateway.svg" alt="API Gateway Platform" width="100%" /></a></p>
       <p>An Apigee-inspired gateway with API key, OAuth, mTLS, and rate-limit policies, plus an OIDC-protected control plane.</p>
       <p><sub>TypeScript · Next.js · PostgreSQL · Envoy</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/c4rl0s04/biwenger-euroleague-stats">Biwenger EuroLeague Stats</a></h3>
+      <p><a href="https://github.com/c4rl0s04/biwenger-euroleague-stats"><img src="./assets/projects/biwenger.svg" alt="Biwenger EuroLeague Stats" width="100%" /></a></p>
       <p>Fantasy basketball analytics with live scoring, market intelligence, and squad-management tools.</p>
       <p><sub>Next.js · React · PostgreSQL · Drizzle</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/c4rl0s04/ascii-motion">ascii-motion</a></h3>
+      <p><a href="https://github.com/c4rl0s04/ascii-motion"><img src="./assets/projects/ascii-motion.svg" alt="ascii-motion" width="100%" /></a></p>
       <p>Real-time video playback as ASCII art in the terminal, with seeking, dithering, and multiple rendering modes.</p>
       <p><sub>Python · OpenCV · NumPy</sub></p>
       <p><a href="https://c4rl0s04.github.io/ascii-motion/">Project website</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/c4rl0s04/pomodoro-cli">Pomodoro CLI</a></h3>
+      <p><a href="https://github.com/c4rl0s04/pomodoro-cli"><img src="./assets/projects/pomodoro.svg" alt="Pomodoro CLI" width="100%" /></a></p>
       <p>A terminal focus timer with a retro 3D clock, work/break cycles, desktop notifications, and session statistics.</p>
       <p><sub>Go · Cobra · Viper</sub></p>
       <p><a href="https://github.com/c4rl0s04/pomodoro-cli/releases">Downloads</a></p>
