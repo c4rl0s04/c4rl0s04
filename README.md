@@ -51,8 +51,6 @@ I build API platforms, web applications, and tools for the terminal.
   </tr>
 </table>
 
-Also building **[Spotify Organizer](https://github.com/c4rl0s04/spotify-organizer)** — a Next.js app for browsing playlists and organizing liked songs.
-
 ## Currently Exploring
 
 <img alt="Google Apigee" src="https://img.shields.io/badge/Google_Apigee-4285F4?style=flat&logo=googlecloud&logoColor=white" /> <img alt="Ping Identity" src="https://img.shields.io/badge/PingIdentity-000000?style=flat" /> <img alt="CyberArk PAM" src="https://img.shields.io/badge/CyberArk_(PAM)-1A1A1A?style=flat" /> <img alt="API Gateway Architecture" src="https://img.shields.io/badge/API_Gateway_Architecture-0052CC?style=flat" /> <img alt="IAM and Security" src="https://img.shields.io/badge/IAM_%26_Security-000000?style=flat&logo=springsecurity&logoColor=white" />
