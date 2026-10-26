@@ -1,9 +1,8 @@
 name: Update Space Shooter Game
 
+# Retained for manual use; the profile now displays the 3D calendar.
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:      # Allows you to run it manually
+  workflow_dispatch:
 
 permissions:
   contents: write         # Required to commit the GIF back to your repo

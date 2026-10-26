@@ -1,0 +1,36 @@
+name: Update 3D contribution graph
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - name: Generate contribution landscapes
+        uses: yoshi389111/github-profile-3d-contrib@e235d118909be71eb7edb05482a3de4e76156df3 # v0.9.3 source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit updated graphs
+        run: |
+          test -s profile-3d-contrib/profile-green.svg
+          test -s profile-3d-contrib/profile-night-green.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile-3d-contrib/profile-green.svg profile-3d-contrib/profile-night-green.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update 3D contribution graph"
+            git push
+          fi
