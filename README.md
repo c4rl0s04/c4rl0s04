@@ -4,7 +4,7 @@
 
 I build API platforms, web applications, and tools for the terminal.
 
-[Selected projects](#selected-projects) · [Tech stack](#tech-stack) · [Certifications](#certifications) · [Contributions](#contributions)
+[Selected projects](#selected-projects) · [Tech stack](#tech-stack) · [Demos](#in-the-terminal) · [Certifications](#certifications) · [Contributions](#contributions)
 
 ## Tech Stack
 
@@ -46,12 +46,44 @@ I build API platforms, web applications, and tools for the terminal.
       <p><a href="https://github.com/c4rl0s04/pomodoro-cli"><img src="./assets/projects/pomodoro.svg" alt="Pomodoro CLI" width="100%" /></a></p>
       <p>A terminal focus timer with a retro 3D clock, work/break cycles, desktop notifications, and session statistics.</p>
       <p><sub>Go · Cobra · Viper</sub></p>
-      <p><a href="https://github.com/c4rl0s04/pomodoro-cli/releases">Downloads</a></p>
+      <p><a href="https://github.com/c4rl0s04/pomodoro-cli#building-from-source">Build & run</a></p>
     </td>
   </tr>
 </table>
 
 Also building **[Spotify Organizer](https://github.com/c4rl0s04/spotify-organizer)** — a Next.js app for browsing playlists and organizing liked songs.
+
+## In the Terminal
+
+### ascii-motion
+
+Video playback, rendered as ASCII art in a real terminal.
+
+<a href="https://github.com/c4rl0s04/ascii-motion">
+  <img src="https://raw.githubusercontent.com/c4rl0s04/ascii-motion/master/docs/demo/ascii-motion-demo.gif" alt="ASCII Motion demo: video frames rendered as animated text inside a terminal" width="720" loading="lazy" />
+</a>
+
+**Try it**
+
+```sh
+pipx install ascii-motion
+ascii-motion video.mp4
+```
+
+[Project website](https://c4rl0s04.github.io/ascii-motion/) · [Stable release: v0.1.1](https://github.com/c4rl0s04/ascii-motion/releases/tag/v0.1.1) · [Preview release: v0.2.0](https://github.com/c4rl0s04/ascii-motion/releases/tag/v0.2.0)
+
+<details>
+<summary><strong>Watch Pomodoro CLI in action</strong></summary>
+
+A retro terminal clock for focus sessions, breaks, and session statistics.
+
+<a href="https://github.com/c4rl0s04/pomodoro-cli">
+  <img src="https://raw.githubusercontent.com/c4rl0s04/pomodoro-cli/main/screenshot.gif" alt="Pomodoro CLI demo showing its retro 3D terminal timer" width="720" loading="lazy" />
+</a>
+
+[Source & setup](https://github.com/c4rl0s04/pomodoro-cli#readme)
+
+</details>
 
 ## Currently Exploring
 
