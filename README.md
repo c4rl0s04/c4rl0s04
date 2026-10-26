@@ -4,7 +4,7 @@
 
 I build API platforms, web applications, and tools for the terminal.
 
-[Selected projects](#selected-projects) · [Tech stack](#tech-stack) · [Interests](#what-i-like-building) · [Certifications](#certifications) · [Contributions](#contributions)
+[Selected projects](#selected-projects) · [Tech stack](#tech-stack) · [Certifications](#certifications) · [Contributions](#contributions)
 
 ## Tech Stack
 
@@ -12,27 +12,13 @@ I build API platforms, web applications, and tools for the terminal.
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,javascript,typescript,go&perline=7" alt="Python, Java, C++, Bash, JavaScript, TypeScript, Go" />
 
-**Web Applications**
+**Web & Data**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi&perline=3" alt="React, Next.js, FastAPI" />
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,postgres&perline=4" alt="FastAPI, Next.js, React, PostgreSQL" />
 
-**Data & Development Tools**
+**Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,anaconda&perline=5" alt="PostgreSQL, Docker, Linux, Git, Anaconda" />
-
-## What I Like Building
-
-<a href="https://github.com/c4rl0s04/api-gateway-platform"><img src="https://img.shields.io/badge/API_platforms_%26_security-0969da?style=flat-square" alt="API platforms and security — explore API Gateway Platform" /></a>
-
-Gateways, authentication, and access control — explored in [API Gateway Platform](https://github.com/c4rl0s04/api-gateway-platform).
-
-<a href="https://github.com/c4rl0s04/ascii-motion"><img src="https://img.shields.io/badge/Terminal_tools-1a7f37?style=flat-square" alt="Terminal tools — explore ASCII Motion" /></a>
-
-Tools that make the terminal more useful and expressive, from [ASCII video playback](https://github.com/c4rl0s04/ascii-motion) to a [Pomodoro timer](https://github.com/c4rl0s04/pomodoro-cli).
-
-<a href="https://github.com/c4rl0s04/biwenger-euroleague-stats"><img src="https://img.shields.io/badge/Sports_analytics-bc4c00?style=flat-square" alt="Sports analytics — explore Biwenger EuroLeague Stats" /></a>
-
-Turning basketball data into fantasy-league insights with [Biwenger EuroLeague Stats](https://github.com/c4rl0s04/biwenger-euroleague-stats).
+<img src="https://skillicons.dev/icons?i=docker,linux,git,anaconda&perline=4" alt="Docker, Linux, Git, Anaconda" />
 
 ## Selected Projects
 
